@@ -1,0 +1,22 @@
+﻿.input
+{
+	color:#CC6699;
+	font-family:SaiSai;
+	font-weight:bold;
+}
+.output
+{
+	font-weight:bold;
+	color:#009933;
+	font-family:SaiSai;
+}
+.text
+{
+	background-color:#CCFFFF;
+	border-color:#CC0000;
+	border-style:solid;
+	border-width:2px;
+	font-weight:bold;
+	color:#009933;
+	font-family:SaiSai;
+}
